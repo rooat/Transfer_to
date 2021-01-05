@@ -11,7 +11,7 @@
     "test": "./node_modules/.bin/mocha --reporter spec  "
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "big-integer": "^1.6.48",
     "bignumber.js": "^5.0.0",
     "body-parser": "^1.12.2",
