@@ -28,7 +28,7 @@
     "nodemon": "^1.19.4",
     "redis": "^2.8.0",
     "serve-favicon": "~2.4.5",
-    "socket.io": "^2.0.4",
+    "socket.io": "^2.4.0",
     "solc": "^0.5.12",
     "web3": "^1.2.1",
     "web3-eth-txpool": "^1.0.0-beta.55",
